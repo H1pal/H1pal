@@ -1,7 +1,7 @@
 ## This Is H1pal, And Just Wander My Production
 
-std::cout << "H1pal" << std::endl
-printf("H1pal")
+### std::cout << "H1pal" << std::endl
+### printf("H1pal")
 print('H1pal')
 System.out.println("H1pal")
 println("H1pal")
