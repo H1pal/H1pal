@@ -1,27 +1,21 @@
-## This Is H1pal, And Just Wander My Production
-
-### std::cout << "H1pal" << std::endl
-### printf("H1pal")
-print('H1pal')
-System.out.println("H1pal")
-println("H1pal")
-
-<!--
-**H1pal/H1pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Language
-C
-Python
-Java
-Kotlin
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ec3c58,100:9a26d5&height=180&text=H1pal's%20github&animation=blink&fontColor=ffffff&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          </div>
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=H1pal&bg_color=180,00000000,00000000&title_color=cda3ff&text_color=cda3ff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1pal&layout=compact&bg_color=180,00000000,00000000&title_color=cda3ff&text_color=cda3ff"
+           /> </div> 
+    </div>
+    
