@@ -8,7 +8,7 @@
 </div>
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 기술 스택 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
@@ -17,7 +17,7 @@
 </div>
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 통계 </h2> 
     <div align= "center"> 
         <img src="https://github-readme-stats.vercel.app/api?
 username=H1pal&bg_color=180,00000000,00000000&title_color=cda3ff&text_color=cda3ff"/> 
