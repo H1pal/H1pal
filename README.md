@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ee3f59,100:b119d7&height=180&text=H1pal's%20github&animation=blink&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=600&color=gradient&text=H1pal's%20github&textBg=false&descAlign=33&descAlignY=57&desc=App%20Developer&descSize=20&strokeWidth=3&animation=fadeIn&reversal=false&section=header&stroke=000&fontColor=fff" />
 </div>
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
 </div>
 
