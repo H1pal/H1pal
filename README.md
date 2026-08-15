@@ -1,6 +1,14 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=600&color=gradient&text=H1pal's%20github&textBg=false&descAlign=33&descAlignY=57&desc=App%20Developer&descSize=20&strokeWidth=3&animation=fadeIn&reversal=false&section=header&stroke=000&fontColor=fff" />
-</div>
+    <!-- <img src="https://capsule-render.vercel.app/api?type=blur&height=600&color=gradient&text=H1pal's%20github&textBg=false&descAlign=33&descAlignY=57&desc=App%20Developer&descSize=20&strokeWidth=3&animation=fadeIn&reversal=false&section=header&stroke=000&fontColor=fff" /> -->
+    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=H1pal&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/H1pal"
+          width="600"
+          height="300"
+        />
+    </a>
+</div> 
+
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>  
